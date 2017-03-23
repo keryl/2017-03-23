@@ -1,3 +1,2 @@
-def average(list):
-    list = [1, 2, 3, 4, 5]
-    return sum(list)/ len(list)
+def average(list_of_numbers):
+    return sum(list_of_numbers)/ len(list_of_numbers)
